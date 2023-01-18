@@ -8,6 +8,10 @@ const Board = () => {
     const [xIsNext, setXIsNext] = useState(true);
     const winner = calcWinner(squares);
 
+    const handleRestart = () => {
+        setSquares(Array(9).fill(null));
+        setXIsNext(true);
+    }
 
     const handleClick = (i) => {
         if (squares[i] || winner) {
@@ -27,7 +31,7 @@ const Board = () => {
 
     return (
         <>
-            {winner && <div className="status">The winner is {winner} player<br></br>
+            {winner && <div className="status">The winner is "{winner}" player<br></br>
                 Congrats!</div>}
             <div className="board-row">
                 <div className="board">
@@ -48,6 +52,7 @@ const Board = () => {
                     </div>
                 </div>
             </div>
+            <button className="restart-button" onClick={handleRestart}>Restart</button>
         </>
     )
 }

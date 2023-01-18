@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/andonibogdan.github.io/tic-tac-toe-game-react/static/css/main.0b90765c.css",
-    "main.js": "/andonibogdan.github.io/tic-tac-toe-game-react/static/js/main.e0a91613.js",
-    "static/js/787.1ba8620b.chunk.js": "/andonibogdan.github.io/tic-tac-toe-game-react/static/js/787.1ba8620b.chunk.js",
-    "index.html": "/andonibogdan.github.io/tic-tac-toe-game-react/index.html",
-    "main.0b90765c.css.map": "/andonibogdan.github.io/tic-tac-toe-game-react/static/css/main.0b90765c.css.map",
-    "main.e0a91613.js.map": "/andonibogdan.github.io/tic-tac-toe-game-react/static/js/main.e0a91613.js.map",
-    "787.1ba8620b.chunk.js.map": "/andonibogdan.github.io/tic-tac-toe-game-react/static/js/787.1ba8620b.chunk.js.map"
+    "main.css": "/tic-tac-toe-game-react/static/css/main.0b90765c.css",
+    "main.js": "/tic-tac-toe-game-react/static/js/main.f60039dc.js",
+    "static/js/787.1ba8620b.chunk.js": "/tic-tac-toe-game-react/static/js/787.1ba8620b.chunk.js",
+    "index.html": "/tic-tac-toe-game-react/index.html",
+    "main.0b90765c.css.map": "/tic-tac-toe-game-react/static/css/main.0b90765c.css.map",
+    "main.f60039dc.js.map": "/tic-tac-toe-game-react/static/js/main.f60039dc.js.map",
+    "787.1ba8620b.chunk.js.map": "/tic-tac-toe-game-react/static/js/787.1ba8620b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b90765c.css",
-    "static/js/main.e0a91613.js"
+    "static/js/main.f60039dc.js"
   ]
 }

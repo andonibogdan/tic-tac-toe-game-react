@@ -26,6 +26,7 @@
   color: black;
   border-radius: 10px;
   padding: 0.5rem 1rem;
+  cursor: pointer;
 }
 
 .restart-button:hover {
